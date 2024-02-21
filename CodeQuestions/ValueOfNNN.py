@@ -1,0 +1,5 @@
+ip = input("Enter value: ")
+z = int(ip)
+a = int(ip+ip)
+b = int(ip+ip+ip)
+print(z+a+b)

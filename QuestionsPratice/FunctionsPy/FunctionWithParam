@@ -1,0 +1,6 @@
+
+def completename(fname,last = "Mali"):
+    return (f"I am {fname} {last}")
+
+st = completename("Sourabh","Patil")
+print(st)
